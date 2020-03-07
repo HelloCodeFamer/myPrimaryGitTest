@@ -1,0 +1,3 @@
+[submodule "randomMaker"]
+	path = randomMaker
+	url = git@github.com:HelloCodeFamer/randomMaker.git
